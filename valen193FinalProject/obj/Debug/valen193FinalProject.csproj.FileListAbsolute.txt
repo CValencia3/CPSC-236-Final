@@ -1,0 +1,11 @@
+C:\Users\Anunt\source\repos\valen193FinalProject\valen193FinalProject\bin\Debug\valen193FinalProject.exe.config
+C:\Users\Anunt\source\repos\valen193FinalProject\valen193FinalProject\bin\Debug\valen193FinalProject.exe
+C:\Users\Anunt\source\repos\valen193FinalProject\valen193FinalProject\bin\Debug\valen193FinalProject.pdb
+C:\Users\Anunt\source\repos\valen193FinalProject\valen193FinalProject\obj\Debug\valen193FinalProject.csprojAssemblyReference.cache
+C:\Users\Anunt\source\repos\valen193FinalProject\valen193FinalProject\obj\Debug\valen193FinalProject.Properties.Resources.resources
+C:\Users\Anunt\source\repos\valen193FinalProject\valen193FinalProject\obj\Debug\valen193FinalProject.csproj.GenerateResource.cache
+C:\Users\Anunt\source\repos\valen193FinalProject\valen193FinalProject\obj\Debug\valen193FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Anunt\source\repos\valen193FinalProject\valen193FinalProject\obj\Debug\valen193FinalProject.exe
+C:\Users\Anunt\source\repos\valen193FinalProject\valen193FinalProject\obj\Debug\valen193FinalProject.pdb
+C:\Users\Anunt\source\repos\valen193FinalProject\valen193FinalProject\obj\Debug\valen193FinalProject.MainForm.resources
+C:\Users\Anunt\source\repos\valen193FinalProject\valen193FinalProject\obj\Debug\valen193FinalProject.NewCharacter.resources
